@@ -6,4 +6,4 @@
 
 ## Getting involved
 
-[first-timers-only Hacktoberfest 2018](/2018)
+[first-timers-only Hacktoberfest 2018](/hacktoberfest-2018)

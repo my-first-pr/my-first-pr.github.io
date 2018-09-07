@@ -1,9 +1,27 @@
-# first-timers-only Hacktoberfest
+Intention is provide a collection of projects and pages to allow first time or new contributors to make their mark on the open source world.
 
-## About [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+Projects will include Hacktoberfest and 24pullrequests among others.
 
-## About `first-timers-only`
+## What is open source?
 
-## Getting involved
+Open source is...
 
-[first-timers-only Hacktoberfest 2018](/hacktoberfest-2018)
+### Why should I contribute?
+
+because...
+
+### What is Hacktoberfest?
+
+it is...
+
+### What is 24pullrequests?
+
+it is...
+
+## [firstpr.me](firstpr.me)
+
+Special thanks to <a href='https://twitter.com/teabass'>Andrew</a> and <a href='https://twitter.com/itsbriannelson'>Brian</a>, creators of [firstpr.me](firstpr.me) for the inspiration to make something that helps first timers make that first pull-request.
+
+## How to contribute
+
+## T&Cs

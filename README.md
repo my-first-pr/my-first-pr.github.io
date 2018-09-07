@@ -2,11 +2,11 @@ Intention is provide a collection of projects and pages to allow first time or n
 
 Projects will include Hacktoberfest and 24pullrequests among others.
 
-## What is open source?
+## What is Open Source?
 
 Open source is...
 
-### Why should I contribute?
+### Why Should I Contribute?
 
 because...
 
@@ -22,7 +22,7 @@ it is...
 
 Special thanks to <a href='https://twitter.com/teabass'>Andrew</a> and <a href='https://twitter.com/itsbriannelson'>Brian</a>, creators of [firstpr.me](firstpr.me) for the inspiration to make something that helps first timers make that first pull-request.
 
-## How to contribute
+## How to Contribute
 
 Check out one of the projects for guidance on how to contribute.
 
@@ -32,4 +32,4 @@ Check out one of the projects for guidance on how to contribute.
 
 ## Important
 
-By contributing to one of our projects you're agreeing to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). 
+By contributing to one of our projects you're agreeing to our [code of conduct](CODE_OF_CONDUCT.md). 

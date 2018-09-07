@@ -24,4 +24,12 @@ Special thanks to <a href='https://twitter.com/teabass'>Andrew</a> and <a href='
 
 ## How to contribute
 
-## T&Cs
+Check out one of the projects for guidance on how to contribute.
+
+- [first-timers](/first-timers)
+- [Hacktoberfest 2018](/hacktoberfest-2018)
+- [24pullrequests](/24pullrequests-2018)
+
+## Important
+
+By contributing to one of our projects you're agreeing to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). 

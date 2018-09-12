@@ -1,5 +1,7 @@
 # Contributing
 
+This is the master repository for a wider open source project. All changes are welcome.
+
 * Fork the project.
 * Make your addition or fix.
 * Send a pull request. Bonus points for topic branches.

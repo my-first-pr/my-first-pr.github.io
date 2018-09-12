@@ -22,7 +22,7 @@ Special thanks to <a href='https://twitter.com/teabass'>Andrew</a> and <a href='
 
 ## How to Contribute
 
-Check out one of the projects for guidance on how to contribute.
+Check out our [contributing](CONTRIBUTING.md) guidelines or one of the projects for guidance on how to contribute to those specifically.
 
 - [first-timers](/first-timers)
 - [Hacktoberfest 2018](/hacktoberfest-2018)

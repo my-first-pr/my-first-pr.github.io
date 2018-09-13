@@ -31,3 +31,6 @@ Check out our [contributing](CONTRIBUTING.md) guidelines or one of the projects 
 ## Important
 
 By contributing to one of our projects you're agreeing to our [code of conduct](CODE_OF_CONDUCT.md). 
+
+## Copyright
+Copyright (c) 2018 first-timers-only. See [LICENSE](LICENSE.md) for details.

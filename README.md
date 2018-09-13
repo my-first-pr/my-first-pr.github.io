@@ -1,6 +1,21 @@
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-pink.svg)
+![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
+![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
+
+![GitHub](https://img.shields.io/github/license/my-first-pr/my-first-pr.github.io.svg)
+![GitHub issues](https://img.shields.io/github/issues/my-first-pr/my-first-pr.github.io.svg)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/my-first-pr/my-first-pr.github.io.svg) 
+![GitHub contributors](https://img.shields.io/github/contributors/my-first-pr/my-first-pr.github.io.svg) 
+![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/w/my-first-pr/my-first-pr.github.io.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/my-first-pr/my-first-pr.github.io.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/my-first-pr/my-first-pr.github.io.svg)
+![GitHub language count](https://img.shields.io/github/languages/count/my-first-pr/my-first-pr.github.io.svg)
+
 The intention of this project is provide a "safe place" to allow first time or new contributors to make their mark on the open source world and to learn how to contribute. ***All pull requests will be considered***. Whether you're contributing to this master repository or the event/project repositories, or you're adding your name to the contributors or you're fixing my crappy use of the English language. I welcome translations.
 
 Projects will include Hacktoberfest and 24pullrequests among others.
+
+![My First PR](assets/images/undraw_working_late_pukg.svg)
 
 ## What is Open Source?
 
@@ -22,7 +37,7 @@ Special thanks to <a href='https://twitter.com/teabass'>Andrew</a> and <a href='
 
 ## How to Contribute
 
-Check out our [contributing](CONTRIBUTING.md) guidelines or one of the projects for guidance on how to contribute to those specifically.
+Please read our [contributing](CONTRIBUTING.md) guidelines before making your pull request. Or one of the projects for guidance on how to contribute to those specifically.
 
 - [first-timers](/first-timers)
 - [Hacktoberfest 2018](/hacktoberfest-2018)
@@ -33,4 +48,5 @@ Check out our [contributing](CONTRIBUTING.md) guidelines or one of the projects 
 By contributing to one of our projects you're agreeing to our [code of conduct](CODE_OF_CONDUCT.md). 
 
 ## Copyright
-Copyright (c) 2018 first-timers-only. See [LICENSE](LICENSE) for details.
+
+Copyright (c) 2018 My First PR. See [LICENSE](LICENSE) for details.

@@ -1,4 +1,4 @@
-Intention is provide a collection of projects and pages to allow first time or new contributors to make their mark on the open source world.
+The intention of this project is provide a "safe place" to allow first time or new contributors to make their mark on the open source world and to learn how to contribute. ***All pull requests will be considered***. Whether you're contributing to this master repository or the event/project repositories, or you're adding your name to the contributors or you're fixing my crappy use of the English language. I welcome translations.
 
 Projects will include Hacktoberfest and 24pullrequests among others.
 

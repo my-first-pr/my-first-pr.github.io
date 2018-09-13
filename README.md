@@ -18,7 +18,7 @@ Hacktoberfest is a global event, that takes place in October, which motivates op
 
 ## Thanks to [firstpr.me](http://firstpr.me/)
 
-Special thanks to <a href='https://twitter.com/teabass'>Andrew</a> and <a href='https://twitter.com/itsbriannelson'>Brian</a>, creators of [firstpr.me](firstpr.me) for the inspiration to make something that helps first timers make that first pull-request and for access to their graphics.
+Special thanks to <a href='https://twitter.com/teabass'>Andrew</a> and <a href='https://twitter.com/itsbriannelson'>Brian</a>, creators of [firstpr.me](http://firstpr.me/) for the inspiration to make something that helps first timers make that first pull-request and for access to their graphics.
 
 ## How to Contribute
 

@@ -48,7 +48,7 @@ Please read our [contributing](CONTRIBUTING.md) guidelines before making your pu
 
 - [A First Timers Guide to an Open Source Project](http://auth0.com/blog/a-first-timers-guide-to-an-open-source-project)
 - [Celebrate Hacktoberfest 2018 with Auth0!](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/)
-- [Awesome Hacktoberfest 2018](https://github.com/my-first-pr/awesome-hacktoberfest-2018)
+- [Awesome Hacktoberfest 2018](https://github.com/OtacilioN/awesome-hacktoberfest-2018)
 
 ## Important
 

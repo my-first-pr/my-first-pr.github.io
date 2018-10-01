@@ -49,6 +49,11 @@ Please read our [contributing](CONTRIBUTING.md) guidelines before making your pu
 - [Hacktoberfest 2018](/hacktoberfest-2018)
 - [24pullrequests](/24pullrequests-2018)
 
+### My Name
+- Description about me
+- [![twitter-alt][twitter-img]](https://twitter.com/example)
+  [![github-alt][github-img]](https://github.com/example)
+
 ## As featured
 
 - [A First Timers Guide to an Open Source Project](http://auth0.com/blog/a-first-timers-guide-to-an-open-source-project)

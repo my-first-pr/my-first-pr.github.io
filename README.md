@@ -18,6 +18,11 @@ Projects will include Hacktoberfest and 24pullrequests among others.
 
 ![My First PR](assets/images/undraw_working_late_pukg.svg)
 
+## Hacktoberfest is on!
+
+- [Sign up to Hacktoberfest](https://hacktoberfest.digitalocean.com/) first.
+- Then head to [our repository](https://github.com/my-first-pr/hacktoberfest-2018) to make your first hacktoberfest 2018 contribution.
+
 ## What is Open Source?
 
 If software is open-source, its source code is freely available to its users. Its users – and anyone else – have the ability to take this source code, modify it, and distribute their own versions of the program. The users also have the ability to distribute as many copies of the original program as they want. Anyone can use the program for any purpose; there are no licensing fees or other restrictions on the software. The OSI has a more detailed definition of “open source” on its website.

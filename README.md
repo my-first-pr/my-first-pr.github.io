@@ -12,7 +12,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/my-first-pr/my-first-pr.github.io.svg)
 ![GitHub language count](https://img.shields.io/github/languages/count/my-first-pr/my-first-pr.github.io.svg)
 
-The intention of this project is provide a "safe place" to allow first time or new contributors to make their mark on the open source world and to learn how to contribute. ***All pull requests will be considered***. Whether you're contributing to this master repository or the event/project repositories, or you're adding your name to the contributors or you're fixing my crappy use of the English language. I welcome translations.
+The intention of this project is provide a "safe place" to allow first time or new contributors to make their mark on the open source world and to learn how to contribute. ***All pull requests will be considered***, whether you're contributing to this master repository or the event/project repositories, adding your name to the contributors or fixing my crappy use of the English language. I welcome translations as well.
 
 Projects will include Hacktoberfest and 24pullrequests among others.
 

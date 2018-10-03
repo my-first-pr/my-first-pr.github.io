@@ -2,11 +2,11 @@
 
 This is the master repository for a wider open source project.
 
-This repository is built for the purpose of encouraging your contributions, big or small. **All** changes are considered, as long as they do not complicate the process for others.
+This repository is built for the purpose of encouraging your contributions, whether big or small. **All** changes are considered, as long as they do not complicate the process for others.
 
-That said, suggest ways to contribute include:
+That said, suggested ways to contribute include the following :
 
-### Your name on the readme.md
+### Add your name on the readme.md
 
 * Fork the project.
 * Add your name to the readme.md using this example;

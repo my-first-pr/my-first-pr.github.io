@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Contributing
 
 This is the master repository for a wider open source project.

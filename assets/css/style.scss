@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+footer {
+  float: right;
+  position: static;
+  bottom: 50px;
+  width: 270px;
+  clear: both;
+}
+
+#side-nav, .view {
+ line-height: 50%;
+}
+
+header > h3 {
+margin-bottom: 10px;
+}

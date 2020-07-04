@@ -1,0 +1,55 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body{
+    padding: 10px;
+}
+
+header{
+    height: 90%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+footer{
+    bottom: 0px;
+}
+
+footer p{
+    margin: 0px 0px 10px;
+}
+
+/*Media Queries for adjusting height of header section for different screen resolution*/
+
+@media only screen and (max-height: 512px) {
+    header{
+        height: 80%;
+        overflow-x: hidden;
+        overflow-y: scroll;
+    }
+}
+
+@media only screen and (max-height: 360px) {
+    header{
+        height: 70%;
+        overflow-x: hidden;
+        overflow-y: scroll;
+    }
+}
+
+@media only screen and (max-height : 240px) {
+    header{
+        height: 60%;
+        overflow-x: hidden;
+        overflow-y: scroll;
+    }
+}
+
+@media only screen and (max-width: 960px) {
+    header{
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+}
